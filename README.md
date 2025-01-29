@@ -10,7 +10,6 @@ Requirements that were met:
 - DeepLabV3.py:  
     - cross-validation (1 point) 
     - training on one more model from scratch (1 point) 
-    - overfit on some examples from training set (1 point) 
     - 3 Different Optimizers (1 point)
     - 3 Different Loss Functions (1 point)
     - Weights and Biases tracking (1 point)
